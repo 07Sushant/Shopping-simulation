@@ -1,6 +1,7 @@
 # LPU Billing System
 
-![me](https://wallpaperaccess.com/full/5989984.jpg)
+![me]([https://wallpaperaccess.com/full/5989984.jpg](https://github.com/07Sushant/Shopping-simulation/blob/main/img/1.png))
+![me]([https://wallpaperaccess.com/full/5989984.jpg](https://github.com/07Sushant/Shopping-simulation/blob/main/img/2.png))
 
 ## Description
 

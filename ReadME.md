@@ -1,7 +1,10 @@
 # LPU Billing System
 
-![me](img/1.png)
-![me](img/2.png)
+<p align="center">
+  <img src="img/1.png" alt="me" width="300" />
+  <img src="img/2.png" alt="me" width="300" />
+</p>
+
 
 
 ## Description

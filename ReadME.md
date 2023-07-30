@@ -1,8 +1,8 @@
 # LPU Billing System
 
 <p align="center">
-  <img src="img/1.png" alt="me" width="300" />
-  <img src="img/2.png" alt="me" width="300" />
+  <img src="img/1.png" alt="me" width="800" />
+  <img src="img/2.png" alt="me" width="800" />
 </p>
 
 

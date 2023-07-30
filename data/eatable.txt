@@ -1,0 +1,3 @@
+Apples          ₹102
+Carrots         ₹220
+Potato chips    ₹301

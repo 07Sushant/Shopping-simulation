@@ -1,0 +1,3 @@
+Sofa        Rs:6997
+Table       Rs:5420
+Lamp        Rs:9987

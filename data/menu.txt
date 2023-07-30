@@ -1,0 +1,6 @@
+1.Electronics
+2.Eatables
+3.Clothing
+4.Home
+5.Beauty
+6.Sports

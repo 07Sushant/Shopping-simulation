@@ -1,0 +1,3 @@
+Smartphone      Rs:2001
+Laptop          Rs:9001
+Headphones      Rs:12001
